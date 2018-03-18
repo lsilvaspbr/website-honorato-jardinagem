@@ -6,4 +6,4 @@ Single page website com layout responsivo, desenvolvido seguindo o conceito de m
 
 HTML, CSS, Javascript, jQuery, Bootstrap, PHP e Ajax.
 
-demo http://honoratojardinagem.com.br/
+site http://honoratojardinagem.com.br/
